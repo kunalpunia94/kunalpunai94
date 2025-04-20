@@ -1,76 +1,75 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+Kunal+Punia!;Welcome+to+my+GitHub+Profile!;Frontend+Dev+%7C+AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
+# 🚀 Kunal Punia's Professional Resume
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kunal+Punia;Frontend+Developer+%7C+Data+Scientist;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech CSE** at SRM AP University (GPA: 8.55/10)
-- 🏫 Ex-Sainik School Amaravathinagar (12th: 85.2%)
-- 💡 Passionate about Frontend, AI, Data Science, and building impactful solutions.
-- 🌱 Currently: Event Coordinator at GDG (Google Developer Group)
-- 📫 Email: kunalpunia821@gmail.com
-
----
-
-## 💼 Experience
-
-**Frontend Development Intern**  
-*Edunet Foundation* (June 2024 - Aug 2024)  
-- Created and improved portfolio websites, enhancing user experience and reducing bounce rates through well-structured layouts.
-- Leveraged HTML, CSS, and JavaScript to build visually appealing and functional web pages.
-
-**Event Coordinator**  
-*GDG (Google Developer Group)* (Sep 2024 - Present)  
-- Planned and organized events with structured workflows for smooth execution.
-- Led an event with 600+ participants, demonstrating leadership and problem-solving skills.
-
----
-
-## 🚀 Projects
-
-| Project | Tech Stack | Highlights |
-| ------- | ---------- | ---------- |
-| **Stock Market Time Series Forecasting** | Python, Streamlit, YFinance, Prophet, Plotly, Scikit-learn | - Web app for forecasting stock trends with interactive visualizations.<br>- Implemented GAM with Bayesian optimization, Fourier seasonality, and holiday effects. |
-| **Customer Churn Prediction** | Flask, MySQL, Twilio, XGBoost, Scikit-learn, Pandas, NumPy, Jinja2, Seaborn | - Full-stack system with XGBoost modeling, Flask backend, MySQL storage.<br>- OTP-based authentication via Twilio, dynamic web pages, and insightful EDA. |
-| **AI Resume Analyzer & LinkedIn Job Scraper** | Streamlit, OpenAI API, Selenium, LangChain, FAISS, Python, Pandas, NumPy | - AI-powered resume analyzer with OpenAI & LangChain.<br>- LinkedIn job scraper automates extraction and matches jobs to user profiles. |
-
----
-
-## 🛠️ Skills
-
-- **Data Analysis & Visualization:** SQL, Python, Excel, Power BI, Tableau
-- **Machine Learning & NLP:** Scikit-learn, XGBoost, NLP
-- **Data Science Libraries:** Pandas, Matplotlib, NumPy, Seaborn
-- **Problem Solving:** Data Structures & Algorithms (DSA)
-- **Software Development:** OOP (C++, Python), Web (HTML, CSS, React.js, JavaScript, Flask)
-- **Version Control:** Git, GitHub
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Kunal's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:kunalpunia821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/kunalpunia94/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/kunalpunia94/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kunalpunia94"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/kunalpunia94/"><img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📄 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](YOUR_GITHUB_PROFILE)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](YOUR_GFG_URL)
+- 🎓 **B.Tech in Computer Science**, SRM University, AP (2022–2026)
+- 💼 **Frontend Developer Intern**, Edunet Foundation
+- 📢 **Event Coordinator**, GDG (Google Developer Group)
+- 🛠️ Skills: Python, Flask, Streamlit, JavaScript, React.js, SQL, Machine Learning
+- 🔭 Currently working on AI-driven resume analyzers and full-stack web applications!
 
 ---
 
-<!-- Replace YOUR_GITHUB_USERNAME and social URLs with your actual usernames/links -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,streamlit,html,css,js,react,cpp,mysql,git,github,vscode,selenium" />
+</div>
+
+---
+
+## 📚 Projects
+
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| **Stock Market Time Series Forecasting** | Built a stock trend forecasting app using GAM and Prophet with interactive visualizations | Python, Streamlit, YFinance, Plotly |
+| **Customer Churn Prediction** | Full-stack system to predict customer churn risks with Twilio OTP authentication | Flask, MySQL, XGBoost |
+| **AI Resume Analyzer & LinkedIn Scraper** | AI-driven resume analysis + live LinkedIn job scraping for job recommendations | OpenAI API, LangChain, Selenium, FAISS |
+
+---
+
+## 🏆 Experience
+
+- **Frontend Development Intern** (Edunet Foundation)  
+  - Developed and enhanced portfolio websites with HTML, CSS, and JavaScript.
+
+- **Event Coordinator** (GDG)  
+  - Led an event with 600+ participants, coordinated logistics, and optimized workflows.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalpunia94&show_icons=true&theme=tokyonight" alt="Kunal's GitHub stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpunia94&theme=tokyonight" alt="GitHub Streak" width="50%"/>
+</div>
+
+---
+
+## 📄 [View my Resume](./kunal_resume_new.pdf)
+
+> Feel free to check out my resume for detailed experiences and projects.
+
+---
+
+## 🔗 Connect with Me!
+
+Let's grow together 🚀  
+[Email](mailto:kunalpunia821@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kunalpunia94/) • [LeetCode](https://leetcode.com/u/kunalpunia94/) • [GitHub](https://github.com/kunalpunia94)
+
+---
