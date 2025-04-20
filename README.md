@@ -1,7 +1,11 @@
-# 🚀 Kunal Punia's Professional Resume
+# 🚀 Kunal Punia's Professional Portfolio
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kunal+Punia;Frontend+Developer+%7C+Data+Scientist;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kunal+Punia!;Frontend+Developer+%7C+Data+Scientist;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" />
 </div>
 
 <p align="center">
@@ -22,9 +26,13 @@
 - 🛠️ Skills: Python, Flask, Streamlit, JavaScript, React.js, SQL, Machine Learning
 - 🔭 Currently working on AI-driven resume analyzers and full-stack web applications!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,streamlit,html,css,js,react,cpp,mysql,git,github,vscode,selenium" />
@@ -32,60 +40,73 @@
 
 ---
 
-## 📚 Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| **Stock Market Time Series Forecasting** | Built a stock trend forecasting app using GAM and Prophet with interactive visualizations | Python, Streamlit, YFinance, Plotly |
-| **Customer Churn Prediction** | Full-stack system to predict customer churn risks with Twilio OTP authentication | Flask, MySQL, XGBoost |
-| **AI Resume Analyzer & LinkedIn Scraper** | AI-driven resume analysis + live LinkedIn job scraping for job recommendations | OpenAI API, LangChain, Selenium, FAISS |
+| **Stock Market Forecasting** | Time series prediction using GAM & Prophet | Python, Streamlit, YFinance, Plotly |
+| **Customer Churn Predictor** | Full-stack system with OTP auth via Twilio | Flask, MySQL, XGBoost |
+| **AI Resume Analyzer** | Resume parser + job match via LinkedIn scraper | OpenAI, LangChain, FAISS, Selenium |
 
 ---
 
 ## 🏆 Experience
 
-- **Frontend Development Intern** (Edunet Foundation)  
-  - Developed and enhanced portfolio websites with HTML, CSS, and JavaScript.
+- **Frontend Developer Intern** @ *Edunet Foundation*  
+  Developed modern websites using HTML, CSS, and JavaScript.
 
-- **Event Coordinator** (GDG)  
-  - Led an event with 600+ participants, coordinated logistics, and optimized workflows.
+- **Event Coordinator** @ *GDG*  
+  Hosted a successful event with 600+ participants, managing logistics and experience.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvYa2X2/giphy.gif" width="250"/>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalpunia94&show_icons=true&theme=tokyonight" alt="Kunal's GitHub stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpunia94&theme=tokyonight" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalpunia94&show_icons=true&theme=tokyonight" alt="Kunal's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalpunia94&theme=tokyonight" alt="GitHub Streak" width="49%"/>
 </div>
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧩 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kunalpunia94?theme=dark&font=Fira+Code&ext=activity" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/kunalpunia94?theme=dark&font=Fira+Code&ext=activity" width="70%" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
-## 📄 [View my Resume](./kunal_resume_new.pdf)
+## 📜 [Download My Resume](./kunal_resume_new.pdf)
 
-> Feel free to check out my resume for detailed experiences and projects.
+> Check out my resume for detailed experiences and accomplishments.
 
 ---
 
 ## 🔗 Connect with Me!
 
-Let's grow together 🚀  
-[Email](mailto:kunalpunia821@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kunalpunia94/) • [LeetCode](https://leetcode.com/u/kunalpunia94/) • [GitHub](https://github.com/kunalpunia94)
+<p align="center">
+  <a href="mailto:kunalpunia821@gmail.com"><img src="https://img.shields.io/badge/Email-KunalPunia821%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> • 
+  <a href="https://linkedin.com/in/kunalpunia94"><img src="https://img.shields.io/badge/LinkedIn-KunalPunia94-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> • 
+  <a href="https://leetcode.com/u/kunalpunia94/"><img src="https://img.shields.io/badge/LeetCode-KunalPunia94-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a> • 
+  <a href="https://github.com/kunalpunia94"><img src="https://img.shields.io/badge/GitHub-KunalPunia94-333?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="200"/>
+  <h4>Let’s build something amazing together!</h4>
+</div>
